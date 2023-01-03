@@ -1,0 +1,21 @@
+{
+    "name": "isaque/calculadora",
+    "description": "Calculadora com 4 opera\u0000\u0000es b\u0000sicas",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isaque O. Silva",
+            "email": "Isaque1945@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Isaque\\Calculadora\\": "src/"
+        }
+    }
+}
